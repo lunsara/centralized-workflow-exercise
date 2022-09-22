@@ -1,0 +1,4 @@
+1 onion
+2 carrots
+1 potato
+3 tomatoes
